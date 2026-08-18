@@ -27,7 +27,7 @@ const suren = {
 
 <p align="center">
   <a href="https://github.com/nestjs-redisx/nestjs-redisx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs-redisx&repo=nestjs-redisx&bg_color=0B0F19&title_color=22D3EE&text_color=94A3B8&icon_color=818CF8&hide_border=true&description_lines_count=2" alt="nestjs-redisx"/>
+    <img src="https://socialify.git.ci/nestjs-redisx/nestjs-redisx/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&forks=1&theme=Dark" alt="nestjs-redisx" width="640"/>
   </a>
 </p>
 
@@ -85,8 +85,7 @@ const suren = {
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sur-ser&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=818CF8&text_color=94A3B8&ring_color=6366F1&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sur-ser&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="top langs"/>
+  <img src="assets/metrics.svg" alt="github metrics" width="70%"/>
 </div>
 
 <div align="center">
