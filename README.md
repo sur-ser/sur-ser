@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=B91C1C&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%C2%B7+15%2B+years;Redis+infrastructure+%C2%B7+Distributed+architectures;Node.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Kafka+%C2%B7+ClickHouse;Creator+of+NestJS+RedisX" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%C2%B7+15%2B+years;Redis+infrastructure+%C2%B7+Distributed+architectures;Node.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Kafka+%C2%B7+ClickHouse;Creator+of+NestJS+RedisX" alt="typing"/>
 </p>
 
 ## 🧑‍💻 About
@@ -32,10 +32,10 @@ const suren = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tests-2200%2B-B91C1C?style=flat-square&labelColor=140A0C" alt="tests"/>
-  <img src="https://img.shields.io/badge/coverage-~88%25-991B1B?style=flat-square&labelColor=140A0C" alt="coverage"/>
-  <img src="https://img.shields.io/badge/license-MIT-7F1D1D?style=flat-square&labelColor=140A0C" alt="license"/>
-  <img src="https://img.shields.io/badge/architecture-plugin--based-9F1239?style=flat-square&labelColor=140A0C" alt="plugins"/>
+  <img src="https://img.shields.io/badge/tests-2200%2B-10B981?style=flat-square&labelColor=0A100D" alt="tests"/>
+  <img src="https://img.shields.io/badge/coverage-~88%25-0F766E?style=flat-square&labelColor=0A100D" alt="coverage"/>
+  <img src="https://img.shields.io/badge/license-MIT-065F46?style=flat-square&labelColor=0A100D" alt="license"/>
+  <img src="https://img.shields.io/badge/architecture-plugin--based-134E4A?style=flat-square&labelColor=0A100D" alt="plugins"/>
 </p>
 
 <div align="center">
@@ -62,25 +62,25 @@ const suren = {
 
 <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,jest&theme=dark" alt="frameworks"/>
 
-<img src="https://img.shields.io/badge/Fastify-2B0A10?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"/>
+<img src="https://img.shields.io/badge/Fastify-0E231D?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"/>
 
 **Data & Messaging**
 
 <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,elasticsearch,kafka,rabbitmq&theme=dark" alt="data"/>
 
-<img src="https://img.shields.io/badge/Kibana-2B0A10?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana"/> <img src="https://img.shields.io/badge/NATS-2B0A10?style=for-the-badge&logo=natsdotio&logoColor=white" alt="nats"/> <img src="https://img.shields.io/badge/ClickHouse-2B0A10?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse"/> <img src="https://img.shields.io/badge/BullMQ-2B0A10?style=for-the-badge" alt="bullmq"/>
+<img src="https://img.shields.io/badge/Kibana-0E231D?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana"/> <img src="https://img.shields.io/badge/NATS-0E231D?style=for-the-badge&logo=natsdotio&logoColor=white" alt="nats"/> <img src="https://img.shields.io/badge/ClickHouse-0E231D?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse"/> <img src="https://img.shields.io/badge/BullMQ-0E231D?style=for-the-badge" alt="bullmq"/>
 
 **Infrastructure & Observability**
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,prometheus,grafana,sentry&theme=dark" alt="infra"/>
 
-<img src="https://img.shields.io/badge/Jira-2B0A10?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/> <img src="https://img.shields.io/badge/OpenTelemetry-2B0A10?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="otel"/>
+<img src="https://img.shields.io/badge/Jira-0E231D?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/> <img src="https://img.shields.io/badge/OpenTelemetry-0E231D?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="otel"/>
 
 **Security & Pentest**
 
 <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="security"/>
 
-<img src="https://img.shields.io/badge/Wireshark-2B0A10?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/> <img src="https://img.shields.io/badge/Burp%20Suite-2B0A10?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
+<img src="https://img.shields.io/badge/Wireshark-0E231D?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/> <img src="https://img.shields.io/badge/Burp%20Suite-0E231D?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
 
 **Also worked with**
 
@@ -99,11 +99,11 @@ const suren = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sur-ser&hide_border=true&background=140A0C&ring=7F1D1D&fire=B91C1C&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=B91C1C&sideLabels=94A3B8&dates=64748B" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=sur-ser&hide_border=true&background=0A100D&ring=065F46&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=140A0C&color=94A3B8&line=7F1D1D&point=B91C1C&area=true&area_color=7F1D1D" alt="activity graph" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=0A100D&color=94A3B8&line=065F46&point=10B981&area=true&area_color=065F46" alt="activity graph" width="96%"/>
 </div>
 
 <div align="center">
@@ -118,12 +118,12 @@ const suren = {
 
 <p align="center">
   <a href="https://github.com/nestjs-redisx/nestjs-redisx">
-    <img src="https://img.shields.io/badge/NestJS%20RedisX-star%20on%20GitHub-B91C1C?style=for-the-badge&logo=github&logoColor=white&labelColor=140A0C" alt="redisx"/>
+    <img src="https://img.shields.io/badge/NestJS%20RedisX-star%20on%20GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0A100D" alt="redisx"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sur-ser&style=flat-square&color=7f1d1d&label=profile+views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=sur-ser&style=flat-square&color=065f46&label=profile+views" alt="views"/>
 </p>
 
 <p align="center">
