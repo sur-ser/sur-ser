@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%C2%B7+15%2B+years;Redis+infrastructure+%C2%B7+Distributed+architectures;Node.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Kafka+%C2%B7+ClickHouse;Creator+of+NestJS+RedisX" alt="typing"/>
+  <img src="assets/tagline.svg" alt="Senior Backend Engineer · Creator of NestJS RedisX" width="760"/>
 </p>
 
 ## 🧑‍💻 About
@@ -23,7 +23,7 @@ const suren = {
 } satisfies Engineer;
 ```
 
-## 🔴 NestJS RedisX
+## ⚡ NestJS RedisX
 
 <p align="center">
   <a href="https://github.com/nestjs-redisx/nestjs-redisx">
@@ -36,6 +36,12 @@ const suren = {
   <img src="https://img.shields.io/badge/coverage-~88%25-0F766E?style=flat-square&labelColor=0A100D" alt="coverage"/>
   <img src="https://img.shields.io/badge/license-MIT-065F46?style=flat-square&labelColor=0A100D" alt="license"/>
   <img src="https://img.shields.io/badge/architecture-plugin--based-134E4A?style=flat-square&labelColor=0A100D" alt="plugins"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx?style=flat-square&color=10B981&labelColor=0A100D&label=stars" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/nestjs-redisx/nestjs-redisx?style=flat-square&color=0F766E&labelColor=0A100D&label=forks" alt="forks"/>
+  <img src="https://img.shields.io/github/last-commit/nestjs-redisx/nestjs-redisx?style=flat-square&color=065F46&labelColor=0A100D&label=last%20commit" alt="last commit"/>
 </p>
 
 <div align="center">
@@ -92,14 +98,6 @@ const suren = {
 
 <div align="center">
   <img src="assets/metrics.svg" alt="github metrics" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="assets/metrics-redisx.svg" alt="nestjs-redisx metrics" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sur-ser&hide_border=true&background=0A100D&ring=065F46&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B" alt="streak"/>
 </div>
 
 <div align="center">

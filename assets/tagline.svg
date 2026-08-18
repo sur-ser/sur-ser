@@ -1,0 +1,21 @@
+<svg width="760" height="36" viewBox="0 0 760 36" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'SF Mono','Fira Code',Menlo,Consolas,monospace; font-size: 17px; fill: #10B981; }
+  </style>
+  <text x="380" y="24" text-anchor="middle" opacity="0">
+    Senior Backend Engineer · 15+ years
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.22;0.26;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+  </text>
+  <text x="380" y="24" text-anchor="middle" opacity="0">
+    Redis infrastructure · Distributed architectures
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.22;0.26;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="380" y="24" text-anchor="middle" opacity="0">
+    Node.js · NestJS · TypeScript · Kafka · ClickHouse
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.22;0.26;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="380" y="24" text-anchor="middle" opacity="0">
+    Creator of NestJS RedisX
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.22;0.26;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+  </text>
+</svg>

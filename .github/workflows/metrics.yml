@@ -30,14 +30,3 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_indepth: no
           config_timezone: UTC
-
-      - name: NestJS RedisX metrics (org repositories)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: nestjs-redisx
-          entity: organization
-          filename: assets/metrics-redisx.svg
-          template: terminal
-          base: header, repositories
-          config_timezone: UTC
