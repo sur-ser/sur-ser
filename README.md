@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%C2%B7+15%2B+years;Redis+infrastructure+%C2%B7+Distributed+architectures;Node.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Kafka+%C2%B7+ClickHouse;Creator+of+NestJS+RedisX" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=F43F5E&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%C2%B7+15%2B+years;Redis+infrastructure+%C2%B7+Distributed+architectures;Node.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Kafka+%C2%B7+ClickHouse;Creator+of+NestJS+RedisX" alt="typing"/>
 </p>
 
 ## 🧑‍💻 About
@@ -32,10 +32,10 @@ const suren = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tests-2200%2B-22D3EE?style=flat-square&labelColor=0B0F19" alt="tests"/>
-  <img src="https://img.shields.io/badge/coverage-~88%25-818CF8?style=flat-square&labelColor=0B0F19" alt="coverage"/>
-  <img src="https://img.shields.io/badge/license-MIT-6366F1?style=flat-square&labelColor=0B0F19" alt="license"/>
-  <img src="https://img.shields.io/badge/architecture-plugin--based-0891B2?style=flat-square&labelColor=0B0F19" alt="plugins"/>
+  <img src="https://img.shields.io/badge/tests-2200%2B-F43F5E?style=flat-square&labelColor=140A0C" alt="tests"/>
+  <img src="https://img.shields.io/badge/coverage-~88%25-FB7185?style=flat-square&labelColor=140A0C" alt="coverage"/>
+  <img src="https://img.shields.io/badge/license-MIT-DC2626?style=flat-square&labelColor=140A0C" alt="license"/>
+  <img src="https://img.shields.io/badge/architecture-plugin--based-9F1239?style=flat-square&labelColor=140A0C" alt="plugins"/>
 </p>
 
 <div align="center">
@@ -89,11 +89,11 @@ const suren = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sur-ser&hide_border=true&background=0B0F19&ring=6366F1&fire=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=sur-ser&hide_border=true&background=140A0C&ring=DC2626&fire=F43F5E&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=F43F5E&sideLabels=94A3B8&dates=64748B" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=0B0F19&color=94A3B8&line=6366F1&point=22D3EE&area=true&area_color=6366F1" alt="activity graph" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=140A0C&color=94A3B8&line=DC2626&point=F43F5E&area=true&area_color=DC2626" alt="activity graph" width="96%"/>
 </div>
 
 <div align="center">
@@ -108,12 +108,12 @@ const suren = {
 
 <p align="center">
   <a href="https://github.com/nestjs-redisx/nestjs-redisx">
-    <img src="https://img.shields.io/badge/NestJS%20RedisX-star%20on%20GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19" alt="redisx"/>
+    <img src="https://img.shields.io/badge/NestJS%20RedisX-star%20on%20GitHub-F43F5E?style=for-the-badge&logo=github&logoColor=white&labelColor=140A0C" alt="redisx"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sur-ser&style=flat-square&color=0891b2&label=profile+views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=sur-ser&style=flat-square&color=dc2626&label=profile+views" alt="views"/>
 </p>
 
 <p align="center">
