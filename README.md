@@ -60,25 +60,31 @@ const suren = {
 
 **Frameworks & APIs**
 
-<img src="https://skillicons.dev/icons?i=nestjs,express,fastify,graphql,jest&theme=dark" alt="frameworks"/>
+<img src="https://skillicons.dev/icons?i=nestjs,express,graphql,jest&theme=dark" alt="frameworks"/>
+
+<img src="https://img.shields.io/badge/Fastify-2B0A10?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"/>
 
 **Data & Messaging**
 
-<img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,elasticsearch,kibana,kafka,rabbitmq,nats&theme=dark" alt="data"/>
+<img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,elasticsearch,kafka,rabbitmq&theme=dark" alt="data"/>
+
+<img src="https://img.shields.io/badge/Kibana-2B0A10?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana"/> <img src="https://img.shields.io/badge/NATS-2B0A10?style=for-the-badge&logo=natsdotio&logoColor=white" alt="nats"/> <img src="https://img.shields.io/badge/ClickHouse-2B0A10?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse"/> <img src="https://img.shields.io/badge/BullMQ-2B0A10?style=for-the-badge" alt="bullmq"/>
 
 **Infrastructure & Observability**
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,prometheus,grafana,sentry,jira&theme=dark" alt="infra"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,prometheus,grafana,sentry&theme=dark" alt="infra"/>
+
+<img src="https://img.shields.io/badge/Jira-2B0A10?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/> <img src="https://img.shields.io/badge/OpenTelemetry-2B0A10?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="otel"/>
 
 **Security & Pentest**
 
-<img src="https://skillicons.dev/icons?i=kali,wireshark,burpsuite&theme=dark" alt="security"/>
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="security"/>
+
+<img src="https://img.shields.io/badge/Wireshark-2B0A10?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/> <img src="https://img.shields.io/badge/Burp%20Suite-2B0A10?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
 
 **Also worked with**
 
 <img src="https://skillicons.dev/icons?i=php,cs,lua,swift&theme=dark" alt="also"/>
-
-<sub>…plus ClickHouse, BullMQ, OpenTelemetry</sub>
 
 </div>
 
@@ -86,6 +92,10 @@ const suren = {
 
 <div align="center">
   <img src="assets/metrics.svg" alt="github metrics" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="assets/metrics-redisx.svg" alt="nestjs-redisx metrics" width="70%"/>
 </div>
 
 <div align="center">
