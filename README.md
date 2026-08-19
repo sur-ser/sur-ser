@@ -34,14 +34,14 @@ const suren = {
 <p align="center">
   <img src="https://img.shields.io/badge/tests-2200%2B-7ee787?style=flat-square&labelColor=0d1117" alt="tests"/>
   <img src="https://img.shields.io/badge/coverage-~88%25-79c0ff?style=flat-square&labelColor=0d1117" alt="coverage"/>
-  <img src="https://img.shields.io/badge/license-MIT-d2a8ff?style=flat-square&labelColor=0d1117" alt="license"/>
-  <img src="https://img.shields.io/badge/architecture-plugin--based-ffa657?style=flat-square&labelColor=0d1117" alt="plugins"/>
+  <img src="https://img.shields.io/badge/license-MIT-a5d6ff?style=flat-square&labelColor=0d1117" alt="license"/>
+  <img src="https://img.shields.io/badge/architecture-plugin--based-39d353?style=flat-square&labelColor=0d1117" alt="plugins"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx?style=flat-square&color=7ee787&labelColor=0d1117&label=stars" alt="stars"/>
   <img src="https://img.shields.io/github/forks/nestjs-redisx/nestjs-redisx?style=flat-square&color=79c0ff&labelColor=0d1117&label=forks" alt="forks"/>
-  <img src="https://img.shields.io/github/last-commit/nestjs-redisx/nestjs-redisx?style=flat-square&color=d2a8ff&labelColor=0d1117&label=last%20commit" alt="last commit"/>
+  <img src="https://img.shields.io/github/last-commit/nestjs-redisx/nestjs-redisx?style=flat-square&color=a5d6ff&labelColor=0d1117&label=last%20commit" alt="last commit"/>
 </p>
 
 <div align="center">
