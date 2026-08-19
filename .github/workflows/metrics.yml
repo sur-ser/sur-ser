@@ -16,12 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Personal metrics (header + languages)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: sur-ser
-          filename: assets/metrics.svg
+          filename: metrics.svg
           template: terminal
           base: header
           plugin_languages: yes
@@ -30,3 +33,16 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_indepth: no
           config_timezone: UTC
+          output_action: none
+
+      - name: Recolor terminal to dark emerald and commit
+        run: |
+          file=$(sudo find /metrics_renders -name '*.svg' | head -1)
+          sudo mv "$file" assets/metrics.svg
+          sudo chown "$(whoami)" assets/metrics.svg
+          sed -i 's/#42092b/#0A100D/gi; s/#504b45/#123128/gi; s/#3c3b37/#0E231D/gi; s/#f37458/#10B981/gi; s/#de4c12/#059669/gi' assets/metrics.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics.svg
+          git diff --cached --quiet || git commit -m "chore: update metrics"
+          git push
