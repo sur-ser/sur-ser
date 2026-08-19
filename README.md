@@ -32,16 +32,16 @@ const suren = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tests-2200%2B-10B981?style=flat-square&labelColor=0A100D" alt="tests"/>
-  <img src="https://img.shields.io/badge/coverage-~88%25-0F766E?style=flat-square&labelColor=0A100D" alt="coverage"/>
-  <img src="https://img.shields.io/badge/license-MIT-065F46?style=flat-square&labelColor=0A100D" alt="license"/>
-  <img src="https://img.shields.io/badge/architecture-plugin--based-134E4A?style=flat-square&labelColor=0A100D" alt="plugins"/>
+  <img src="https://img.shields.io/badge/tests-2200%2B-7ee787?style=flat-square&labelColor=0d1117" alt="tests"/>
+  <img src="https://img.shields.io/badge/coverage-~88%25-79c0ff?style=flat-square&labelColor=0d1117" alt="coverage"/>
+  <img src="https://img.shields.io/badge/license-MIT-d2a8ff?style=flat-square&labelColor=0d1117" alt="license"/>
+  <img src="https://img.shields.io/badge/architecture-plugin--based-ffa657?style=flat-square&labelColor=0d1117" alt="plugins"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx?style=flat-square&color=10B981&labelColor=0A100D&label=stars" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/nestjs-redisx/nestjs-redisx?style=flat-square&color=0F766E&labelColor=0A100D&label=forks" alt="forks"/>
-  <img src="https://img.shields.io/github/last-commit/nestjs-redisx/nestjs-redisx?style=flat-square&color=065F46&labelColor=0A100D&label=last%20commit" alt="last commit"/>
+  <img src="https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx?style=flat-square&color=7ee787&labelColor=0d1117&label=stars" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/nestjs-redisx/nestjs-redisx?style=flat-square&color=79c0ff&labelColor=0d1117&label=forks" alt="forks"/>
+  <img src="https://img.shields.io/github/last-commit/nestjs-redisx/nestjs-redisx?style=flat-square&color=d2a8ff&labelColor=0d1117&label=last%20commit" alt="last commit"/>
 </p>
 
 <div align="center">
@@ -68,25 +68,25 @@ const suren = {
 
 <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,jest&theme=dark" alt="frameworks"/>
 
-<img src="https://img.shields.io/badge/Fastify-0E231D?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"/>
+<img src="https://img.shields.io/badge/Fastify-161b22?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"/>
 
 **Data & Messaging**
 
 <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,elasticsearch,kafka,rabbitmq&theme=dark" alt="data"/>
 
-<img src="https://img.shields.io/badge/Kibana-0E231D?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana"/> <img src="https://img.shields.io/badge/NATS-0E231D?style=for-the-badge&logo=natsdotio&logoColor=white" alt="nats"/> <img src="https://img.shields.io/badge/ClickHouse-0E231D?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse"/> <img src="https://img.shields.io/badge/BullMQ-0E231D?style=for-the-badge" alt="bullmq"/>
+<img src="https://img.shields.io/badge/Kibana-161b22?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana"/> <img src="https://img.shields.io/badge/NATS-161b22?style=for-the-badge&logo=natsdotio&logoColor=white" alt="nats"/> <img src="https://img.shields.io/badge/ClickHouse-161b22?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse"/> <img src="https://img.shields.io/badge/BullMQ-161b22?style=for-the-badge" alt="bullmq"/>
 
 **Infrastructure & Observability**
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,prometheus,grafana,sentry&theme=dark" alt="infra"/>
 
-<img src="https://img.shields.io/badge/Jira-0E231D?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/> <img src="https://img.shields.io/badge/OpenTelemetry-0E231D?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="otel"/>
+<img src="https://img.shields.io/badge/Jira-161b22?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/> <img src="https://img.shields.io/badge/OpenTelemetry-161b22?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="otel"/>
 
 **Security & Pentest**
 
 <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="security"/>
 
-<img src="https://img.shields.io/badge/Wireshark-0E231D?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/> <img src="https://img.shields.io/badge/Burp%20Suite-0E231D?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
+<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/> <img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
 
 **Also worked with**
 
@@ -101,7 +101,7 @@ const suren = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=0A100D&color=94A3B8&line=065F46&point=10B981&area=true&area_color=065F46" alt="activity graph" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=0d1117&color=8b949e&line=39d353&point=7ee787&area=true&area_color=26a641" alt="activity graph" width="96%"/>
 </div>
 
 <div align="center">
@@ -116,12 +116,12 @@ const suren = {
 
 <p align="center">
   <a href="https://github.com/nestjs-redisx/nestjs-redisx">
-    <img src="https://img.shields.io/badge/NestJS%20RedisX-star%20on%20GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0A100D" alt="redisx"/>
+    <img src="https://img.shields.io/badge/NestJS%20RedisX-star%20on%20GitHub-7ee787?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="redisx"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sur-ser&style=flat-square&color=065f46&label=profile+views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=sur-ser&style=flat-square&color=238636&label=profile+views" alt="views"/>
 </p>
 
 <p align="center">

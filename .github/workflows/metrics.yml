@@ -40,7 +40,7 @@ jobs:
           file=$(sudo find /metrics_renders -name '*.svg' | head -1)
           sudo mv "$file" assets/metrics.svg
           sudo chown "$(whoami)" assets/metrics.svg
-          sed -i 's/#42092b/#0A100D/gi; s/#504b45/#123128/gi; s/#3c3b37/#0E231D/gi; s/#f37458/#10B981/gi; s/#de4c12/#059669/gi' assets/metrics.svg
+          sed -i 's/#42092b/#0d1117/gi; s/#504b45/#21262d/gi; s/#3c3b37/#161b22/gi; s/#f37458/#3fb950/gi; s/#de4c12/#238636/gi' assets/metrics.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/metrics.svg
