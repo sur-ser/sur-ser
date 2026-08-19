@@ -35,7 +35,12 @@ jobs:
           config_timezone: UTC
           output_action: none
 
-      - name: Recolor terminal to dark emerald and commit
+      - name: Contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/contrib-graph.mjs
+
+      - name: Recolor terminal, add graph and commit
         run: |
           file=$(sudo find /metrics_renders -name '*.svg' | head -1)
           sudo mv "$file" assets/metrics.svg
@@ -43,6 +48,6 @@ jobs:
           sed -i 's/#42092b/#0d1117/gi; s/#504b45/#21262d/gi; s/#3c3b37/#161b22/gi; s/#f37458/#3fb950/gi; s/#de4c12/#238636/gi' assets/metrics.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/metrics.svg
+          git add assets/metrics.svg assets/contrib-graph.svg
           git diff --cached --quiet || git commit -m "chore: update metrics"
           git push

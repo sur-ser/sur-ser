@@ -101,7 +101,7 @@ const suren = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sur-ser&hide_border=true&bg_color=0d1117&color=8b949e&line=39d353&point=7ee787&area=true&area_color=26a641" alt="activity graph" width="96%"/>
+  <img src="assets/contrib-graph.svg" alt="contribution graph" width="96%"/>
 </div>
 
 <div align="center">
