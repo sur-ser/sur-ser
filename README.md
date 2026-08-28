@@ -27,7 +27,7 @@ const suren = {
 
 <p align="center">
   <a href="https://github.com/nestjs-redisx/nestjs-redisx">
-    <img src="https://socialify.git.ci/nestjs-redisx/nestjs-redisx/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&forks=1&theme=Dark" alt="nestjs-redisx" width="640"/>
+    <img src="https://raw.githubusercontent.com/nestjs-redisx/nestjs-redisx/main/website/public/images/logo.png?description=1&font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&forks=1&theme=Dark" alt="nestjs-redisx" width="640"/>
   </a>
 </p>
 
