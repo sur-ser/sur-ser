@@ -4,100 +4,100 @@
     .title { font-family: 'SF Mono','Fira Code',Menlo,Consolas,monospace; font-size: 14px; fill: #7ee787; }
   </style>
   <text x="52" y="20" class="title">$ git log --author=sur-ser --since="30 days ago"</text>
-  <line x1="52" y1="187.2" x2="936" y2="187.2" stroke="#21262d" stroke-width="1"/>
-  <text x="42" y="187.2" text-anchor="end" dominant-baseline="middle" class="lbl">58</text>
-<line x1="52" y1="135.6" x2="936" y2="135.6" stroke="#21262d" stroke-width="1"/>
-  <text x="42" y="135.6" text-anchor="end" dominant-baseline="middle" class="lbl">117</text>
-<line x1="52" y1="84.8" x2="936" y2="84.8" stroke="#21262d" stroke-width="1"/>
-  <text x="42" y="84.8" text-anchor="end" dominant-baseline="middle" class="lbl">175</text>
+  <line x1="52" y1="187.0" x2="936" y2="187.0" stroke="#21262d" stroke-width="1"/>
+  <text x="42" y="187.0" text-anchor="end" dominant-baseline="middle" class="lbl">33</text>
+<line x1="52" y1="136.0" x2="936" y2="136.0" stroke="#21262d" stroke-width="1"/>
+  <text x="42" y="136.0" text-anchor="end" dominant-baseline="middle" class="lbl">66</text>
+<line x1="52" y1="85.0" x2="936" y2="85.0" stroke="#21262d" stroke-width="1"/>
+  <text x="42" y="85.0" text-anchor="end" dominant-baseline="middle" class="lbl">99</text>
 <line x1="52" y1="34.0" x2="936" y2="34.0" stroke="#21262d" stroke-width="1"/>
-  <text x="42" y="34.0" text-anchor="end" dominant-baseline="middle" class="lbl">233</text>
-  <path d="M 52.0,34.0 L 82.5,146.9 L 113.0,168.8 L 143.4,224.0 L 173.9,218.7 L 204.4,224.9 L 234.9,205.6 L 265.4,202.1 L 295.9,163.6 L 326.3,122.4 L 356.8,166.2 L 387.3,166.2 L 417.8,217.0 L 448.3,229.2 L 478.8,236.2 L 509.2,217.0 L 539.7,230.1 L 570.2,219.6 L 600.7,212.6 L 631.2,223.1 L 661.7,233.6 L 692.1,230.1 L 722.6,231.9 L 753.1,189.8 L 783.6,139.9 L 814.1,215.2 L 844.6,193.3 L 875.0,229.2 L 905.5,238.0 L 936.0,238.0 L 936.0,238.0 L 52,238.0 Z" fill="#26a641" fill-opacity="0.14"/>
-  <path d="M 52.0,34.0 L 82.5,146.9 L 113.0,168.8 L 143.4,224.0 L 173.9,218.7 L 204.4,224.9 L 234.9,205.6 L 265.4,202.1 L 295.9,163.6 L 326.3,122.4 L 356.8,166.2 L 387.3,166.2 L 417.8,217.0 L 448.3,229.2 L 478.8,236.2 L 509.2,217.0 L 539.7,230.1 L 570.2,219.6 L 600.7,212.6 L 631.2,223.1 L 661.7,233.6 L 692.1,230.1 L 722.6,231.9 L 753.1,189.8 L 783.6,139.9 L 814.1,215.2 L 844.6,193.3 L 875.0,229.2 L 905.5,238.0 L 936.0,238.0" fill="none" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-dasharray="4000" stroke-dashoffset="4000">
+  <text x="42" y="34.0" text-anchor="end" dominant-baseline="middle" class="lbl">132</text>
+  <path d="M 52.0,77.3 L 82.5,115.9 L 113.0,213.3 L 143.4,204.0 L 173.9,214.8 L 204.4,180.8 L 234.9,174.6 L 265.4,106.6 L 295.9,34.0 L 326.3,111.3 L 356.8,111.3 L 387.3,200.9 L 417.8,222.5 L 448.3,234.9 L 478.8,200.9 L 509.2,224.1 L 539.7,205.5 L 570.2,193.2 L 600.7,211.7 L 631.2,230.3 L 661.7,224.1 L 692.1,227.2 L 722.6,153.0 L 753.1,64.9 L 783.6,197.8 L 814.1,159.2 L 844.6,222.5 L 875.0,236.5 L 905.5,238.0 L 936.0,238.0 L 936.0,238.0 L 52,238.0 Z" fill="#26a641" fill-opacity="0.14"/>
+  <path d="M 52.0,77.3 L 82.5,115.9 L 113.0,213.3 L 143.4,204.0 L 173.9,214.8 L 204.4,180.8 L 234.9,174.6 L 265.4,106.6 L 295.9,34.0 L 326.3,111.3 L 356.8,111.3 L 387.3,200.9 L 417.8,222.5 L 448.3,234.9 L 478.8,200.9 L 509.2,224.1 L 539.7,205.5 L 570.2,193.2 L 600.7,211.7 L 631.2,230.3 L 661.7,224.1 L 692.1,227.2 L 722.6,153.0 L 753.1,64.9 L 783.6,197.8 L 814.1,159.2 L 844.6,222.5 L 875.0,236.5 L 905.5,238.0 L 936.0,238.0" fill="none" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-dasharray="4000" stroke-dashoffset="4000">
     <animate attributeName="stroke-dashoffset" from="4000" to="0" dur="2.5s" fill="freeze"/>
   </path>
-  <circle cx="52.0" cy="34.0" r="2.6" fill="#7ee787" opacity="0">
+  <circle cx="52.0" cy="77.3" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.50s" fill="freeze"/>
   </circle>
-<circle cx="82.5" cy="146.9" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="82.5" cy="115.9" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.55s" fill="freeze"/>
   </circle>
-<circle cx="113.0" cy="168.8" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="113.0" cy="213.3" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.60s" fill="freeze"/>
   </circle>
-<circle cx="143.4" cy="224.0" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="143.4" cy="204.0" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.65s" fill="freeze"/>
   </circle>
-<circle cx="173.9" cy="218.7" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="173.9" cy="214.8" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.70s" fill="freeze"/>
   </circle>
-<circle cx="204.4" cy="224.9" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="204.4" cy="180.8" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.75s" fill="freeze"/>
   </circle>
-<circle cx="234.9" cy="205.6" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="234.9" cy="174.6" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.80s" fill="freeze"/>
   </circle>
-<circle cx="265.4" cy="202.1" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="265.4" cy="106.6" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.85s" fill="freeze"/>
   </circle>
-<circle cx="295.9" cy="163.6" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="295.9" cy="34.0" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/>
   </circle>
-<circle cx="326.3" cy="122.4" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="326.3" cy="111.3" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.95s" fill="freeze"/>
   </circle>
-<circle cx="356.8" cy="166.2" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="356.8" cy="111.3" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.00s" fill="freeze"/>
   </circle>
-<circle cx="387.3" cy="166.2" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="387.3" cy="200.9" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.05s" fill="freeze"/>
   </circle>
-<circle cx="417.8" cy="217.0" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="417.8" cy="222.5" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.10s" fill="freeze"/>
   </circle>
-<circle cx="448.3" cy="229.2" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="448.3" cy="234.9" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.15s" fill="freeze"/>
   </circle>
-<circle cx="478.8" cy="236.2" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="478.8" cy="200.9" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.20s" fill="freeze"/>
   </circle>
-<circle cx="509.2" cy="217.0" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="509.2" cy="224.1" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.25s" fill="freeze"/>
   </circle>
-<circle cx="539.7" cy="230.1" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="539.7" cy="205.5" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.30s" fill="freeze"/>
   </circle>
-<circle cx="570.2" cy="219.6" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="570.2" cy="193.2" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.35s" fill="freeze"/>
   </circle>
-<circle cx="600.7" cy="212.6" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="600.7" cy="211.7" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.40s" fill="freeze"/>
   </circle>
-<circle cx="631.2" cy="223.1" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="631.2" cy="230.3" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.45s" fill="freeze"/>
   </circle>
-<circle cx="661.7" cy="233.6" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="661.7" cy="224.1" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.50s" fill="freeze"/>
   </circle>
-<circle cx="692.1" cy="230.1" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="692.1" cy="227.2" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.55s" fill="freeze"/>
   </circle>
-<circle cx="722.6" cy="231.9" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="722.6" cy="153.0" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.60s" fill="freeze"/>
   </circle>
-<circle cx="753.1" cy="189.8" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="753.1" cy="64.9" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.65s" fill="freeze"/>
   </circle>
-<circle cx="783.6" cy="139.9" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="783.6" cy="197.8" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.70s" fill="freeze"/>
   </circle>
-<circle cx="814.1" cy="215.2" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="814.1" cy="159.2" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.75s" fill="freeze"/>
   </circle>
-<circle cx="844.6" cy="193.3" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="844.6" cy="222.5" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.80s" fill="freeze"/>
   </circle>
-<circle cx="875.0" cy="229.2" r="2.6" fill="#7ee787" opacity="0">
+<circle cx="875.0" cy="236.5" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.85s" fill="freeze"/>
   </circle>
 <circle cx="905.5" cy="238.0" r="2.6" fill="#7ee787" opacity="0">
@@ -106,34 +106,34 @@
 <circle cx="936.0" cy="238.0" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.95s" fill="freeze"/>
   </circle>
-  <text x="52.0" y="266" text-anchor="middle" class="lbl">17.08</text>
+  <text x="52.0" y="266" text-anchor="middle" class="lbl">18.08</text>
 
 
 
 
-<text x="204.4" y="266" text-anchor="middle" class="lbl">22.08</text>
+<text x="204.4" y="266" text-anchor="middle" class="lbl">23.08</text>
 
 
 
 
-<text x="356.8" y="266" text-anchor="middle" class="lbl">27.08</text>
+<text x="356.8" y="266" text-anchor="middle" class="lbl">28.08</text>
 
 
 
 
-<text x="509.2" y="266" text-anchor="middle" class="lbl">01.09</text>
+<text x="509.2" y="266" text-anchor="middle" class="lbl">02.09</text>
 
 
 
 
-<text x="661.7" y="266" text-anchor="middle" class="lbl">06.09</text>
+<text x="661.7" y="266" text-anchor="middle" class="lbl">07.09</text>
 
 
 
 
-<text x="814.1" y="266" text-anchor="middle" class="lbl">11.09</text>
+<text x="814.1" y="266" text-anchor="middle" class="lbl">12.09</text>
 
 
 
-<text x="936.0" y="266" text-anchor="middle" class="lbl">15.09</text>
+<text x="936.0" y="266" text-anchor="middle" class="lbl">16.09</text>
 </svg>
