@@ -106,34 +106,34 @@
 <circle cx="936.0" cy="238.0" r="2.6" fill="#7ee787" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.95s" fill="freeze"/>
   </circle>
-  <text x="52.0" y="266" text-anchor="middle" class="lbl">20.10</text>
+  <text x="52.0" y="266" text-anchor="middle" class="lbl">21.10</text>
 
 
 
 
-<text x="204.4" y="266" text-anchor="middle" class="lbl">25.10</text>
+<text x="204.4" y="266" text-anchor="middle" class="lbl">26.10</text>
 
 
 
 
-<text x="356.8" y="266" text-anchor="middle" class="lbl">30.10</text>
+<text x="356.8" y="266" text-anchor="middle" class="lbl">31.10</text>
 
 
 
 
-<text x="509.2" y="266" text-anchor="middle" class="lbl">04.11</text>
+<text x="509.2" y="266" text-anchor="middle" class="lbl">05.11</text>
 
 
 
 
-<text x="661.7" y="266" text-anchor="middle" class="lbl">09.11</text>
+<text x="661.7" y="266" text-anchor="middle" class="lbl">10.11</text>
 
 
 
 
-<text x="814.1" y="266" text-anchor="middle" class="lbl">14.11</text>
+<text x="814.1" y="266" text-anchor="middle" class="lbl">15.11</text>
 
 
 
-<text x="936.0" y="266" text-anchor="middle" class="lbl">18.11</text>
+<text x="936.0" y="266" text-anchor="middle" class="lbl">19.11</text>
 </svg>
